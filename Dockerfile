@@ -17,6 +17,5 @@ CMD ["python", "test.py"]
 
 
 
-
 #### Run command in terminal
 ## docker build -t my-python-app .
